@@ -1,7 +1,6 @@
 body {
   font-family: "Roboto", Arial, sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+  color: #2e2f42;
 }
 
 header {
@@ -61,7 +60,7 @@ nav {
 }
 
 .nav-link:hover {
-  color: #404bbf;
+  color: #4d5ae5;
 }
 
 .contacts {
@@ -81,7 +80,7 @@ nav {
 }
 
 .contacts-item {
-  font-family: "Roboto", sans-serif;
+ font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -163,7 +162,7 @@ nav {
 }
 
 .features-title {
-  font-family: "Roboto", sans-serif;
+ font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -232,10 +231,13 @@ nav {
   color: #434455;
 }
 
+
+
 body {
   font-family: "Roboto", Arial, sans-serif;
   color: #2e2f42;
 }
+
 
 .container {
   width: 1158px;
@@ -315,12 +317,12 @@ body {
   justify-content: flex-start;
 }
 
-.span-footer {
+.span-footer{
   color: #fff;
 }
 
 .logo-footer:hover {
-  color: #fff;
+  color: #fff
 }
 
 .footer-text {

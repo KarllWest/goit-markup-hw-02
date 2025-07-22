@@ -28,6 +28,7 @@ a {
 }
 
 .nav-link {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -35,22 +36,24 @@ a {
   color: #2e2f42;
 }
 
-.contacts {
+.address {
   font-style: normal;
 }
 
-.contacts-link {
+.address-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.nav-link:hover,
-.nav-link:focus,
-.contacts-link:hover,
-.contacts-link:focus {
-  color: #404bbf;
+.nav-item:hover,
+.nav-item:focus,
+.address-link:hover,
+.address-link:focus {
+  background-color: #404BBF;
 }
 
 .hero {
@@ -75,12 +78,13 @@ a {
   cursor: pointer;
 }
 
-.button-hero:hover,
-.button-hero:focus {
+.hero-btn:hover,
+.hero-btn:focus {
   background-color: #404BBF;
 }
 
 .feature-title {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -89,6 +93,7 @@ a {
 }
 
 .feature-text {
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;

@@ -33,7 +33,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .address {
@@ -53,7 +53,7 @@ a {
 .nav-item:focus,
 .address-link:hover,
 .address-link:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .hero {
@@ -80,7 +80,7 @@ a {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .feature-title {
